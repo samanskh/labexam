@@ -171,7 +171,7 @@ To use [Formspree](https://formspree.io/) with your email address, you need to c
 Change `your-email@domain.com` email in `_config.yml`
 
 ```yaml
-email: your-email@domain.com
+email: samankhajeamiri@yahoo.com
 ```
 
 You can check if it works by simply submitting the form.
